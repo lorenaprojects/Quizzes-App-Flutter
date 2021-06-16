@@ -1,4 +1,4 @@
-# quiz2lore
+## Quizzes App
 
 A new Flutter application.
 
